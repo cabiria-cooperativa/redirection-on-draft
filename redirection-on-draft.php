@@ -4,7 +4,7 @@
  * Plugin URI: https://www.cabiria.net
  * Description: Se una pagina è un bozza esegue una redirezione alla home
  * Version: 1.0.0
- * Author: Cabiria
+ * Author: Simone Alati
  * Author URI: https://www.cabiria.net
  * Text Domain: cabi
  */
